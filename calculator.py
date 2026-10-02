@@ -19,7 +19,7 @@ def pow(a, b):
 
 
 def abs(a):
-    pass
+    return a if a >= 0 else -a
 
 
 def mod(a, b):
@@ -27,7 +27,6 @@ def mod(a, b):
 
 
 if __name__ == "__main__":
-    # 간단한 테스트 코드
     # 간단한 테스트 코드
     print("add:", add(10, 5))
     print("subtract:", subtract(10, 5))
