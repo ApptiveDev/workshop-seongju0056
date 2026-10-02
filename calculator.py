@@ -1,9 +1,9 @@
 def add(a, b):
-    pass
+    return a + b
 
 
 def subtract(a, b):
-    pass
+	return a - b
 
 
 def multiply(a, b):
@@ -15,7 +15,8 @@ def divide(a, b):
 
 
 def pow(a, b):
-    pass
+    return a ** b
+
 
 
 def abs(a):
@@ -23,7 +24,7 @@ def abs(a):
 
 
 def mod(a, b):
-    pass
+    return a % b
 
 
 if __name__ == "__main__":
