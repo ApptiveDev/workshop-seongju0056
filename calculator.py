@@ -32,7 +32,6 @@ def mod(a, b):
 
 if __name__ == "__main__":
     # 간단한 테스트 코드
-    if __name__ == "__main__":
     # 간단한 테스트 코드
     print("add:", add(10, 5))
     print("subtract:", subtract(10, 5))
