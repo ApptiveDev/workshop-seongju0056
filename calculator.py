@@ -3,15 +3,15 @@ def add(a, b):
 
 
 def subtract(a, b):
-	pass
+    pass
 
 
 def multiply(a, b):
-    pass
+    return a*b
 
 
 def divide(a, b):
-    pass
+    return a/b
 
 
 def pow(a, b):
