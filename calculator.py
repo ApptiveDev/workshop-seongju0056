@@ -23,7 +23,7 @@ def abs(a):
 
 
 def mod(a, b):
-    pass
+    return a % b
 
 
 if __name__ == "__main__":
