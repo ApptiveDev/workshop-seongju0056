@@ -15,7 +15,8 @@ def divide(a, b):
 
 
 def pow(a, b):
-    pass
+    return a ** b
+
 
 
 def abs(a):
