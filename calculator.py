@@ -20,7 +20,10 @@ def pow(a, b):
 
 
 def abs(a):
-    pass
+    if a < 0:
+	return -a
+    else:
+	return a
 
 
 def mod(a, b):
